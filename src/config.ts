@@ -37,11 +37,11 @@ export const siteConfig = {
       skills: ["React", "Three.js", "JavaScript"],
     },
     {
-      name: "Tarort Cards Picker",
+      name: "Cisco Packet Tracer Labs",
       description:
-        "KAn interactive web app where users select three tarot cards to reveal past, present, and future insights.",
-      link: "https://github.com/ad4mjulie/my-tarot-cards",
-      skills: ["React", "Node.Javascript"],
+        "The labs showcase practical configurations, troubleshooting, and network design skills.",
+      link: "https://github.com/ad4mjulie/cisco-packet-tracer-labs",
+      skills: ["Subnetting & Addressing, Network Protocols"],
     },
   ],
   experience: [
